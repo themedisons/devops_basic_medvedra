@@ -1,2 +1,2 @@
 # devops_basic_medvedra
-DevOps pamati iesācējiem
+Raivja Medvedeva DevOps repozitorijs pamati iesācējiem
