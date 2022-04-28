@@ -1,0 +1,3 @@
+Vienam hash commit ir 265c5fd18ac7c7a38fe87b4723e6e335fc70c1e6
+Otram hash commit ir 02ba423057f279e0b70ede62e0c110df33c02d0a
+Secinajums: nav vienadi hashi
